@@ -33,7 +33,8 @@ public class background extends JFrame {
 			imageLabel.setBounds(x, y, 100, 100);
 			c.add(imageLabel);
         setVisible(true);
-		}
+        
+    }
 	public static void main(String[] args) {
 		background frame = new background();
 	}
